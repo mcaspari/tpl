@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mcaspari:tpl',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'Template1',
   git: 'https://github.com/mcaspari/tpl.git',
   documentation: null
