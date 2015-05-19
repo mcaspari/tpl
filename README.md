@@ -1,1 +1,1 @@
-readme
+This project is about meteor templates (only for testing purposes!)
